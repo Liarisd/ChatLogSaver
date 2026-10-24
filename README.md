@@ -63,10 +63,8 @@ The CLS tray icon is embedded into the executable.
 - The executable is not digitally signed, so Windows SmartScreen may display a warning.
 
 ## About
-Developed for **Tauredor | Edge of the Woods**, a persistent world for Neverwinter Nights: Enhanced Edition.
-
+Developed for **Tauredor | Край лесов**, a RU persistent world for Neverwinter Nights: Enhanced Edition.
 Website: [tauredor.ru](https://tauredor.ru)
-Source code: [GitHub](https://github.com/Liarisd/ChatLogSaver)
 
 ----- RUSSIAN LANG -----
 
@@ -132,5 +130,4 @@ GOOS=windows GOARCH=amd64 go build -ldflags="-H=windowsgui -s -w" -o ChatLogSave
 
 ## О проекте
 Программа разработана для постоянного мира **Tauredor | Край Лесов** на базе Neverwinter Nights: Enhanced Edition.
-Сайт проекта: [tauredor.ru](https://tauredor.ru)
-Исходный код: [GitHub](https://github.com/Liarisd/ChatLogSaver)
+Сайт: [tauredor.ru](https://tauredor.ru)
