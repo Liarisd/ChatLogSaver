@@ -14,8 +14,6 @@ The application runs quietly in the Windows system tray and requires no interact
 - **Background operation** - runs from the Windows system tray.
 - **Windows startup** - can be enabled or disabled directly from the tray menu.
 - **Automatic language selection** - Russian interface when the Windows UI language is Russian; English for all other languages.
-- **Built-in CLS icon** - no external icon file is required.
-- **Standalone executable** - no Python, PowerShell scripts, or additional runtime installation required.
 
 ## Installation
 1. Download the Windows ZIP archive from the repository's [Releases](https://github.com/Liarisd/ChatLogSaver/releases) page.
@@ -82,8 +80,6 @@ NWN:EE может перезаписывать клиентские журнал
 - **Фоновая работа** - размещается в системном трее Windows.
 - **Автозапуск** - включается и отключается непосредственно через меню программы.
 - **Русский и английский языки** - интерфейс автоматически выбирается по языку Windows. Для всех языков, кроме русского, используется английский.
-- **Встроенная иконка CLS** - отдельный файл значка не требуется.
-- **Самостоятельный EXE** - не требует Python, PowerShell-скриптов или дополнительных библиотек.
 
 ## Установка
 1. Скачайте ZIP-архив для Windows из раздела [Releases](https://github.com/Liarisd/ChatLogSaver/releases).
